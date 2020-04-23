@@ -9,7 +9,7 @@ export default () => (
  <>
     <header>
       <div className="headerWrapper">
-        <h3>ebulletins</h3>
+        <h3>churchkey</h3>
       </div>
     </header>
     <div style={{backgroundColor: '#f4f4f4'}}>

@@ -1,5 +1,6 @@
 module.exports = {
   plugins: [
+    `gatsby-plugin-react-svg`,
     {
       resolve: `gatsby-plugin-prefetch-google-fonts`,
       options: {
@@ -8,14 +9,11 @@ module.exports = {
             family: `Karla`,
             variants: [`400`, `700`],
           },
+          {
+            family: `Montserrat`,
+            variants: [`900`],
+          },
         ],
-      },
-    },
-    {
-      resolve: `gatsby-plugin-react-svg`,
-      options: {
-        rule: {
-        },
       },
     },
   ],
