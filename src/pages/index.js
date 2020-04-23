@@ -22,8 +22,8 @@ export default () => (
               Your online solution to making sure your church stays connected and up to date on what's coming up next.
             </p>
             <div class="buttonWrapper">
-              <button className="primaryButton">try it yourself</button>
-              <button className="secondaryButton">schedule a demo</button>
+              <a href="https://churchkeydemo.netlify.app" target="_blank" rel="noopener noreferrer"><button className="primaryButton">try it yourself</button></a>
+              <a href="https://calendly.com/andyhong" target="_blank" rel="noopener noreferrer"><button className="secondaryButton">schedule a demo</button></a>
             </div>
           </div>
           <div className="mediaWrapper">
@@ -77,8 +77,8 @@ export default () => (
           <h2 style={{marginBottom: '0.25em'}}>Are you ready to take the next step?</h2>
           <p>We're ready to jump in and walk alongside you to take your church to the next level.</p>
           <div className="buttonWrapper">
-            <button className="primaryButton">try it yourself</button>
-            <button className="secondaryButton">schedule a demo</button>
+            <a href="https://churchkeydemo.netlify.app" target="_blank" rel="noopener noreferrer"><button className="primaryButton">try it yourself</button></a>
+            <a href="https://calendly.com/andyhong" target="_blank" rel="noopener noreferrer"><button className="secondaryButton">schedule a demo</button></a>
           </div>
         </div>
       </div>
