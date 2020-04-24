@@ -113,6 +113,12 @@ li {
   cursor: pointer;
 }
 
+button:hover {
+  background-color: #FAAE2B;
+  border: 5px solid #FAAE2B;
+  color: #ffffff;
+}
+
 .footerWrapper {
   max-width: 1280px;
   margin: 0 auto;
