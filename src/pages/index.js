@@ -45,7 +45,7 @@ export default () => (
             Why move your bulletin online?
           </h2>
           <ul>
-            <li>Cut your operational costs that come from designing and printing a bulletin weekly</li>
+            <li>Cut your operational costs that come from designing and printing a weekly bulletin</li>
             <li>Reduce the amount of steps your congregation takes to fulfill your call to action (filling out a form, registering for an event, etc.)</li>
             <li>Create a central hub that is one click away from any "next step" your church has to offer</li>
           </ul>
@@ -59,8 +59,8 @@ export default () => (
             Here's what we have to offer.
           </h2>
           <ul>
-            <li>A responsive, mobile-first, performant microsite hosted on our global servers so you can focus on doing what you love and not have to worry about the technical details</li>
-            <li>Clean and minimal design to make sure your church knows exactly what their next step is</li>
+            <li>A user-friendly microsite hosted by us so you can focus on doing what you love and not have to worry about the technical details</li>
+            <li>Clean and simple design to make sure your audience has a clear next step</li>
             <li>A straightforward and simple editing experience that allows anyone to hop in and start building ebulletins (no web experience required!)</li>
           </ul>
         </div>
