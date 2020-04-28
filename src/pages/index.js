@@ -1,4 +1,5 @@
 import React from "react"
+import SEO from '../components/seo'
 import './style.css'
 
 import AppIcon from '../assets/app.svg'
@@ -6,7 +7,8 @@ import QuestionsIcon from '../assets/questions.svg'
 import WireFrameIcon from '../assets/wireframe.svg'
 
 export default () => (
- <>
+  <>
+    <SEO title={"Churchkey"}/>
     <header>
       <div className="headerWrapper">
         <h3>churchkey</h3>
@@ -85,8 +87,8 @@ export default () => (
     </div>
     <footer style={{backgroundColor: '#f4f4f4'}}>
       <div className="footerWrapper">
-        <small>Built by Andy Hong</small>
+        <small>&copy; 2020 Churchkey. All Rights Reserved. </small>
       </div>
     </footer>
- </> 
+  </> 
 )

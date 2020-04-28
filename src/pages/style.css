@@ -116,6 +116,10 @@ li {
   cursor: pointer;
 }
 
+button {
+  transition: all 0.2s ease; 
+}
+
 button:hover {
   background-color: #FAAE2B;
   border: 5px solid #FAAE2B;
@@ -127,7 +131,6 @@ button:hover {
   margin: 0 auto;
   text-align: center;
   font-size: 1.25em;
-  font-weight: bold;
   padding: 1em;
 }
 
