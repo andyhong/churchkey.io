@@ -47,8 +47,8 @@ export default () => (
             Why move your bulletin online?
           </h2>
           <ul>
-            <li>Cut your operational costs that come from designing and printing a weekly bulletin</li>
-            <li>Reduce the amount of steps your congregation takes to fulfill your call to action (filling out a form, registering for an event, etc.)</li>
+            <li>Significantly cut your operational costs that come from designing and printing a weekly bulletin</li>
+            <li>Reduce the amount of steps your congregation takes to fulfill your call to action (signing up to serve, registering for an event, etc.)</li>
             <li>Create a central hub that is one click away from any "next step" your church has to offer</li>
           </ul>
         </div>
@@ -58,12 +58,12 @@ export default () => (
       <div className="container">
         <div className="textWrapper">
           <h2>
-            Here's what we have to offer.
+            Here's what we offer.
           </h2>
           <ul>
             <li>A user-friendly microsite hosted by us so you can focus on doing what you love and not have to worry about the technical details</li>
             <li>Clean and simple design to make sure your audience has a clear next step</li>
-            <li>A straightforward and simple editing experience that allows anyone to hop in and start building ebulletins (no web experience required!)</li>
+            <li>A straightforward and smooth editing experience that allows anyone to hop in and start building ebulletins (no web experience required!)</li>
           </ul>
         </div>
         <div className="mediaWrapper">
