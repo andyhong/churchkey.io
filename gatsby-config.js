@@ -23,6 +23,18 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-manifest`,
+      options: {
+        name: `Churchkey`,
+        short_name: `Churchkey`,
+        start_url: `/`,
+        background_color: `#ffffff`,
+        theme_color: `#151945`,
+        display: `minimal-ui`,
+        icon: `src/assets/door.svg`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-netlify`,
       options: {
         addPageHeaders: [
