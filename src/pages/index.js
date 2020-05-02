@@ -11,7 +11,7 @@ export default () => (
     <SEO title={"Churchkey"}/>
     <header>
       <div className="headerWrapper">
-        <h3>churchkey</h3>
+        <h3>Churchkey</h3>
       </div>
     </header>
     <div style={{backgroundColor: '#f4f4f4'}}>
